@@ -4,7 +4,7 @@
   
 <hr>
 <!--   <h2 align="center">A passionate Full Stack Developer</h2> -->
-     <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Full+Stack+Developer.👩‍💻;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
+     <div align="ccenter"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Full+Stack+Developer.👩‍💻;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
   
 <div>
 <h2 align="center">💫  About Me </h2>
