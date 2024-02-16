@@ -20,7 +20,7 @@
   <br><br>
  💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js, Express.js, Java**
   <br><br>
- ⚡ How to reach me snamrata5454@gmail.com@gmail.com
+ ⚡ How to reach me snamrata5454@gmail.com
   
   
 <h1 align="center">Let's Get Connected</h1>
