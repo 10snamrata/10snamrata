@@ -12,7 +12,7 @@
 
  🌱 I’m currently learning **Node.js**.
   <br><br>
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1bgtHW_Tza5CmXVb5N7IFkaLjAp84Ch5j/view?usp=sharing">Resume</a>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1rJOj07APFIdkPaNY-N45WuGmxDhgBHps/view?usp=sharing">Resume</a>
   <br><br>
  👨‍💻  Know more about me <a href="https://github.com/10snamrata">Portfolio</a>
   <br><br>
