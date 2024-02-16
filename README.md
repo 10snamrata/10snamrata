@@ -4,7 +4,7 @@
   
 <hr>
   <h2 align="center">A passionate Full Stack Developer</h2>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Namrata+Singh.;I+am+a+Full+Stack+Developer.👩‍💻;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Full+Stack+Developer.👩‍💻;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
   
 <div>
 <h2 align="center">💫  About Me </h2>
@@ -24,6 +24,7 @@
   
   
 <h1 align="center">Let's Get Connected</h1>
+
 <div align="center">
  <a  href="https://www.linkedin.com/in/namrata-singh-21b86b224/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:snamrata5454@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
