@@ -18,7 +18,7 @@
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/10snamrata?tab=repositories">My Github Repositories</a>
   <br><br>
- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js, Express.js, Java**
+ 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js, Express.js, Java, MongoDB**
   <br><br>
  ⚡ How to reach me snamrata5454@gmail.com
   
