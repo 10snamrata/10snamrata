@@ -8,15 +8,15 @@
   
 <div>
 <h2 align="center">💫  About Me </h2>
-  <img align="right" alt="Coder Image Gif" width="400" src="https://camo.githubusercontent.com/5a249fff657eb22fb372ea50a8553b59551fd78ea5df602fc08e3ec1e8e95bb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313935313138322f73637265656e73686f74732f343536303832332f383030783630302e676966">
-  
+
+
  🌱 I’m currently learning **Node.js**.
   <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1bgtHW_Tza5CmXVb5N7IFkaLjAp84Ch5j/view?usp=sharing">Resume</a>
   <br><br>
  👨‍💻  Know more about me <a href="https://github.com/10snamrata">Portfolio</a>
   <br><br>
- 😄 All of my projects are available at <a href="https://github.com/10snamrata">My Github Repositories</a>
+ 😄 All of my projects are available at <a href="https://github.com/10snamrata?tab=repositories">My Github Repositories</a>
   <br><br>
  💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js, Express.js, Java**
   <br><br>
