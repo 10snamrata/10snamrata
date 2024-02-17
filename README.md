@@ -14,7 +14,7 @@
   <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1rJOj07APFIdkPaNY-N45WuGmxDhgBHps/view?usp=sharing">Resume</a>
   <br><br>
- 👨‍💻  Know more about me <a href="https://github.com/10snamrata">Portfolio</a>
+ 👨‍💻  Know more about me <a href="https://10snamrata.github.io/">Portfolio</a>
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/10snamrata?tab=repositories">My Github Repositories</a>
   <br><br>
